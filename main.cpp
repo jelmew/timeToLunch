@@ -12,7 +12,7 @@ int main() {
         cout << "We are already past lunchtime lazy fucker" << endl;
         return 0;
     }
-    cout << hours << " :hours, " << minutes << " :minutes" << seconds << " : seconds to lunch" << endl;
+    cout << hours << " :hours, " << minutes << " :minutes, " << seconds << " : seconds to lunch" << endl;
     return 0;
 }
 
